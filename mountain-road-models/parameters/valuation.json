@@ -1,0 +1,19 @@
+{
+  "price_year": 2024,
+  "unit_cost_year": 2017,
+  "cpi_previous_year_100": {
+    "2018": 102.1,
+    "2019": 102.9,
+    "2020": 102.5,
+    "2021": 100.9,
+    "2022": 102.0,
+    "2023": 100.2,
+    "2024": 100.2
+  },
+  "unit_crash_costs": {
+    "property_damage_only": 11274,
+    "minor_injury": 20223,
+    "severe_injury": 865544,
+    "fatal": 3181394
+  }
+}
